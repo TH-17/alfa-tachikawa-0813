@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #ffffff;
+  color: #FF0000;
   margin: 0;
 }
 
@@ -58,19 +58,19 @@ input[type=text] {
 }
 
 ::-webkit-input-placeholder {
-  color: #999;
+  color: #FF5500;
 }
 
 :-ms-input-placeholder {
-  color: #999;
+  color: #FFAA00;
 }
 
 ::-ms-input-placeholder {
-  color: #999;
+  color: #FFFF00;
 }
 
 ::placeholder {
-  color: #999;
+  color: #AAFF00;
 }
 
 button {
@@ -78,8 +78,8 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
-  color: #ff0000;
+  background-color: #55FF00;
+  color: #00FFAA;
   width: 287px;
   height: 55px;
 }
